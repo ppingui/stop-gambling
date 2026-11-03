@@ -1,0 +1,43 @@
+{
+  "name": "stop-gambling",
+  "version": "1.0.0",
+  "description": "Gambling help from your terminal: verified helplines, national self-exclusion schemes, a check against 294,000 gambling domains, the PGSI self-check and blocking guides. By Silex.",
+  "keywords": [
+    "gambling",
+    "stop-gambling",
+    "gambling-addiction",
+    "problem-gambling",
+    "gambling-blocker",
+    "gambling-domains",
+    "blocklist",
+    "self-exclusion",
+    "helpline",
+    "pgsi",
+    "mcp",
+    "cli"
+  ],
+  "homepage": "https://trysilex.com/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ppingui/stop-gambling.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ppingui/stop-gambling/issues",
+    "email": "support@trysilex.com"
+  },
+  "author": "Silex <support@trysilex.com> (https://trysilex.com)",
+  "license": "MIT",
+  "type": "module",
+  "main": "index.js",
+  "exports": "./index.js",
+  "bin": {
+    "stop-gambling": "bin/stop-gambling.js"
+  },
+  "files": [
+    "index.js",
+    "bin/"
+  ],
+  "engines": {
+    "node": ">=18"
+  }
+}
