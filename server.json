@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.ppingui/silex-help",
+  "title": "Silex Gambling Help",
+  "description": "Help to stop gambling: verified helplines, self-exclusion, a gambling-site check, PGSI, block plans.",
+  "repository": {
+    "url": "https://github.com/ppingui/stop-gambling",
+    "source": "github"
+  },
+  "websiteUrl": "https://trysilex.com/",
+  "version": "1.0.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://silex-help.trysilex.workers.dev/mcp"
+    }
+  ]
+}
