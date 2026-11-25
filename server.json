@@ -8,11 +8,11 @@
     "source": "github"
   },
   "websiteUrl": "https://trysilex.com/",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "remotes": [
     {
       "type": "streamable-http",
-      "url": "https://silex-help.trysilex.workers.dev/mcp"
+      "url": "https://silex-help.trysilex.workers.dev/full"
     }
   ]
 }

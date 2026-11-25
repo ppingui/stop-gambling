@@ -1,7 +1,7 @@
 // Client for the Silex Help MCP server: public, read-only, no key. The server
 // stores nothing; see https://trysilex.com/privacy/ (section 15).
 
-export const ENDPOINT = "https://silex-help.trysilex.workers.dev/mcp";
+export const ENDPOINT = "https://silex-help.trysilex.workers.dev/full";
 
 let nextId = 1;
 

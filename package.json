@@ -1,6 +1,6 @@
 {
   "name": "stop-gambling",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Gambling help from your terminal: verified helplines, national self-exclusion schemes, a check against 294,000 gambling domains, the PGSI self-check and blocking guides. By Silex.",
   "keywords": [
     "gambling",

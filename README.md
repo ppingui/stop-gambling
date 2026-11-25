@@ -57,7 +57,7 @@ Node 18 or later. No dependencies.
 ## How it works
 
 Every command calls the public, read-only
-[Silex Help MCP server](https://silex-help.trysilex.workers.dev/mcp), the same one behind the
+[Silex Help MCP server](https://silex-help.trysilex.workers.dev/full), the same one behind the
 Silex plugin for ChatGPT. It keeps no logs of what you ask
 ([privacy policy](https://trysilex.com/privacy/), section 15). Only the country or the sites
 you pass are sent.
